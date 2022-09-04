@@ -1,4 +1,4 @@
-https://atcoder.jp/contests/typical90/tasks/typical90_b
+
 
 N=int(input())
 import itertools
