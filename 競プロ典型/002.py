@@ -1,4 +1,4 @@
-#問題文url  https://atcoder.jp/contests/typical90/tasks/typical90_b
+https://atcoder.jp/contests/typical90/tasks/typical90_b
 
 N=int(input())
 import itertools
