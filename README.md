@@ -14,4 +14,7 @@ AtCoder感想＆解けなかった問題まとめ<br>
 
 # フォルダの説明
 ABC
-atcoderの
+atcoderのabcコンテストを解いたフォルダ。
+ARC
+atcoderのarcコンテストを解いたフォルダ。
+
