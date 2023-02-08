@@ -17,4 +17,6 @@ ABC
 <br>atcoderのabcコンテストを解いたフォルダ。<br>
 ARC
 <br>atcoderのarcコンテストを解いたフォルダ。<br>
+競プロ典型
+<br>atcoderの競プロ典型を解いたフォルダ。<br>
 
